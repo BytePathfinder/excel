@@ -1,0 +1,195 @@
+2023-06-21 12:57:26  [ main:0 ] - [ INFO ]  读取到了一条额外信息:null
+2023-06-21 12:57:41  [ main:0 ] - [ INFO ]  读取到了一条额外信息:null
+2023-06-21 13:35:31  [ main:0 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":1,"firstColumnIndex":1,"firstRowIndex":1,"lastColumnIndex":1,"lastRowIndex":2,"rowIndex":1,"type":2}
+2023-06-21 13:35:31  [ main:8 ] - [ INFO ]  额外信息是超链接,而且覆盖了一个区间,在firstRowIndex:1,firstColumnIndex;1,lastRowIndex:2,lastColumnIndex:1
+2023-06-21 13:35:31  [ main:8 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":1,"firstColumnIndex":1,"firstRowIndex":3,"lastColumnIndex":1,"lastRowIndex":6,"rowIndex":3,"type":2}
+2023-06-21 13:35:31  [ main:9 ] - [ INFO ]  额外信息是超链接,而且覆盖了一个区间,在firstRowIndex:3,firstColumnIndex;1,lastRowIndex:6,lastColumnIndex:1
+2023-06-21 13:35:31  [ main:10 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":2,"firstColumnIndex":2,"firstRowIndex":3,"lastColumnIndex":2,"lastRowIndex":6,"rowIndex":3,"type":2}
+2023-06-21 13:35:31  [ main:10 ] - [ INFO ]  额外信息是超链接,而且覆盖了一个区间,在firstRowIndex:3,firstColumnIndex;2,lastRowIndex:6,lastColumnIndex:2
+2023-06-21 13:35:31  [ main:11 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":2,"firstColumnIndex":2,"firstRowIndex":1,"lastColumnIndex":2,"lastRowIndex":2,"rowIndex":1,"type":2}
+2023-06-21 13:35:31  [ main:11 ] - [ INFO ]  额外信息是超链接,而且覆盖了一个区间,在firstRowIndex:1,firstColumnIndex;2,lastRowIndex:2,lastColumnIndex:2
+2023-06-21 13:35:31  [ main:12 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":0,"firstColumnIndex":0,"firstRowIndex":1,"lastColumnIndex":0,"lastRowIndex":2,"rowIndex":1,"type":2}
+2023-06-21 13:35:31  [ main:12 ] - [ INFO ]  额外信息是超链接,而且覆盖了一个区间,在firstRowIndex:1,firstColumnIndex;0,lastRowIndex:2,lastColumnIndex:0
+2023-06-21 13:35:31  [ main:12 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":0,"firstColumnIndex":0,"firstRowIndex":3,"lastColumnIndex":0,"lastRowIndex":6,"rowIndex":3,"type":2}
+2023-06-21 13:35:31  [ main:13 ] - [ INFO ]  额外信息是超链接,而且覆盖了一个区间,在firstRowIndex:3,firstColumnIndex;0,lastRowIndex:6,lastColumnIndex:0
+2023-06-21 13:44:38  [ main:0 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":1,"firstColumnIndex":1,"firstRowIndex":1,"lastColumnIndex":1,"lastRowIndex":2,"rowIndex":1,"type":2}
+2023-06-21 13:44:38  [ main:7 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:1,firstColumnIndex;1,lastRowIndex:2,lastColumnIndex:1,textnull
+2023-06-21 13:44:38  [ main:7 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":1,"firstColumnIndex":1,"firstRowIndex":3,"lastColumnIndex":1,"lastRowIndex":6,"rowIndex":3,"type":2}
+2023-06-21 13:44:38  [ main:8 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:3,firstColumnIndex;1,lastRowIndex:6,lastColumnIndex:1,textnull
+2023-06-21 13:44:38  [ main:8 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":2,"firstColumnIndex":2,"firstRowIndex":3,"lastColumnIndex":2,"lastRowIndex":6,"rowIndex":3,"type":2}
+2023-06-21 13:44:38  [ main:9 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:3,firstColumnIndex;2,lastRowIndex:6,lastColumnIndex:2,textnull
+2023-06-21 13:44:38  [ main:9 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":2,"firstColumnIndex":2,"firstRowIndex":1,"lastColumnIndex":2,"lastRowIndex":2,"rowIndex":1,"type":2}
+2023-06-21 13:44:38  [ main:10 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:1,firstColumnIndex;2,lastRowIndex:2,lastColumnIndex:2,textnull
+2023-06-21 13:44:38  [ main:10 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":0,"firstColumnIndex":0,"firstRowIndex":1,"lastColumnIndex":0,"lastRowIndex":2,"rowIndex":1,"type":2}
+2023-06-21 13:44:38  [ main:11 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:1,firstColumnIndex;0,lastRowIndex:2,lastColumnIndex:0,textnull
+2023-06-21 13:44:38  [ main:11 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":0,"firstColumnIndex":0,"firstRowIndex":3,"lastColumnIndex":0,"lastRowIndex":6,"rowIndex":3,"type":2}
+2023-06-21 13:44:38  [ main:12 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:3,firstColumnIndex;0,lastRowIndex:6,lastColumnIndex:0,textnull
+2023-06-21 13:48:04  [ main:0 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":1,"firstColumnIndex":1,"firstRowIndex":1,"lastColumnIndex":1,"lastRowIndex":2,"rowIndex":1,"type":2}
+2023-06-21 13:48:04  [ main:6 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:1,firstColumnIndex;1,lastRowIndex:2,lastColumnIndex:1,text:null
+2023-06-21 13:48:04  [ main:7 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":1,"firstColumnIndex":1,"firstRowIndex":3,"lastColumnIndex":1,"lastRowIndex":6,"rowIndex":3,"type":2}
+2023-06-21 13:48:04  [ main:7 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:3,firstColumnIndex;1,lastRowIndex:6,lastColumnIndex:1,text:null
+2023-06-21 13:48:04  [ main:7 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":2,"firstColumnIndex":2,"firstRowIndex":3,"lastColumnIndex":2,"lastRowIndex":6,"rowIndex":3,"type":2}
+2023-06-21 13:48:04  [ main:8 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:3,firstColumnIndex;2,lastRowIndex:6,lastColumnIndex:2,text:null
+2023-06-21 13:48:04  [ main:8 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":2,"firstColumnIndex":2,"firstRowIndex":1,"lastColumnIndex":2,"lastRowIndex":2,"rowIndex":1,"type":2}
+2023-06-21 13:48:04  [ main:8 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:1,firstColumnIndex;2,lastRowIndex:2,lastColumnIndex:2,text:null
+2023-06-21 13:48:04  [ main:9 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":0,"firstColumnIndex":0,"firstRowIndex":1,"lastColumnIndex":0,"lastRowIndex":2,"rowIndex":1,"type":2}
+2023-06-21 13:48:04  [ main:9 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:1,firstColumnIndex;0,lastRowIndex:2,lastColumnIndex:0,text:null
+2023-06-21 13:48:04  [ main:10 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":0,"firstColumnIndex":0,"firstRowIndex":3,"lastColumnIndex":0,"lastRowIndex":6,"rowIndex":3,"type":2}
+2023-06-21 13:48:04  [ main:10 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:3,firstColumnIndex;0,lastRowIndex:6,lastColumnIndex:0,text:null
+2023-06-21 14:22:58  [ main:0 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","orderId":"1","password":"zs","price":1.5,"productName":"西红柿","quantity":3.0,"username":"张三"}
+2023-06-21 14:22:58  [ main:4 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","price":25.0,"productName":"鸡蛋","quantity":5.0}
+2023-06-21 14:22:58  [ main:6 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","orderId":"2","password":"ls","price":17.0,"productName":"里脊肉","quantity":1.0,"username":"李四"}
+2023-06-21 14:22:58  [ main:7 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","price":5.0,"productName":"芹菜","quantity":1.0}
+2023-06-21 14:22:58  [ main:8 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","price":24.0,"productName":"辣椒","quantity":3.0}
+2023-06-21 14:22:58  [ main:9 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","price":5.0,"productName":"馒头","quantity":0.5}
+2023-06-21 14:22:58  [ main:27 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":1,"firstColumnIndex":1,"firstRowIndex":1,"lastColumnIndex":1,"lastRowIndex":2,"rowIndex":1,"type":2}
+2023-06-21 14:22:58  [ main:29 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:1,firstColumnIndex;1,lastRowIndex:2,lastColumnIndex:1
+2023-06-21 14:22:58  [ main:30 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":1,"firstColumnIndex":1,"firstRowIndex":3,"lastColumnIndex":1,"lastRowIndex":6,"rowIndex":3,"type":2}
+2023-06-21 14:22:58  [ main:30 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:3,firstColumnIndex;1,lastRowIndex:6,lastColumnIndex:1
+2023-06-21 14:22:58  [ main:31 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":2,"firstColumnIndex":2,"firstRowIndex":3,"lastColumnIndex":2,"lastRowIndex":6,"rowIndex":3,"type":2}
+2023-06-21 14:22:58  [ main:32 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:3,firstColumnIndex;2,lastRowIndex:6,lastColumnIndex:2
+2023-06-21 14:22:58  [ main:33 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":2,"firstColumnIndex":2,"firstRowIndex":1,"lastColumnIndex":2,"lastRowIndex":2,"rowIndex":1,"type":2}
+2023-06-21 14:22:58  [ main:33 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:1,firstColumnIndex;2,lastRowIndex:2,lastColumnIndex:2
+2023-06-21 14:22:58  [ main:34 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":0,"firstColumnIndex":0,"firstRowIndex":1,"lastColumnIndex":0,"lastRowIndex":2,"rowIndex":1,"type":2}
+2023-06-21 14:22:58  [ main:35 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:1,firstColumnIndex;0,lastRowIndex:2,lastColumnIndex:0
+2023-06-21 14:22:58  [ main:38 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":0,"firstColumnIndex":0,"firstRowIndex":3,"lastColumnIndex":0,"lastRowIndex":6,"rowIndex":3,"type":2}
+2023-06-21 14:22:58  [ main:39 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:3,firstColumnIndex;0,lastRowIndex:6,lastColumnIndex:0
+2023-06-21 14:22:58  [ main:40 ] - [ INFO ]  所有数据解析完成！
+2023-06-21 14:28:38  [ main:0 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","orderId":"1","password":"zs","price":1.5,"productName":"西红柿","quantity":3.0,"username":"张三"}
+2023-06-21 14:28:38  [ main:4 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","price":25.0,"productName":"鸡蛋","quantity":5.0}
+2023-06-21 14:28:38  [ main:5 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","orderId":"2","password":"ls","price":17.0,"productName":"里脊肉","quantity":1.0,"username":"李四"}
+2023-06-21 14:28:38  [ main:7 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","price":5.0,"productName":"芹菜","quantity":1.0}
+2023-06-21 14:28:38  [ main:7 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","price":24.0,"productName":"辣椒","quantity":3.0}
+2023-06-21 14:28:38  [ main:8 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","price":5.0,"productName":"馒头","quantity":0.5}
+2023-06-21 14:28:38  [ main:26 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":1,"firstColumnIndex":1,"firstRowIndex":1,"lastColumnIndex":1,"lastRowIndex":2,"rowIndex":1,"type":2}
+2023-06-21 14:28:38  [ main:27 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:1,firstColumnIndex;1,lastRowIndex:2,lastColumnIndex:1
+2023-06-21 14:28:38  [ main:28 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":1,"firstColumnIndex":1,"firstRowIndex":3,"lastColumnIndex":1,"lastRowIndex":6,"rowIndex":3,"type":2}
+2023-06-21 14:28:38  [ main:28 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:3,firstColumnIndex;1,lastRowIndex:6,lastColumnIndex:1
+2023-06-21 14:28:38  [ main:29 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":2,"firstColumnIndex":2,"firstRowIndex":3,"lastColumnIndex":2,"lastRowIndex":6,"rowIndex":3,"type":2}
+2023-06-21 14:28:38  [ main:29 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:3,firstColumnIndex;2,lastRowIndex:6,lastColumnIndex:2
+2023-06-21 14:28:38  [ main:30 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":2,"firstColumnIndex":2,"firstRowIndex":1,"lastColumnIndex":2,"lastRowIndex":2,"rowIndex":1,"type":2}
+2023-06-21 14:28:38  [ main:30 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:1,firstColumnIndex;2,lastRowIndex:2,lastColumnIndex:2
+2023-06-21 14:28:38  [ main:30 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":0,"firstColumnIndex":0,"firstRowIndex":1,"lastColumnIndex":0,"lastRowIndex":2,"rowIndex":1,"type":2}
+2023-06-21 14:28:38  [ main:31 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:1,firstColumnIndex;0,lastRowIndex:2,lastColumnIndex:0
+2023-06-21 14:28:38  [ main:32 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":0,"firstColumnIndex":0,"firstRowIndex":3,"lastColumnIndex":0,"lastRowIndex":6,"rowIndex":3,"type":2}
+2023-06-21 14:28:38  [ main:33 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:3,firstColumnIndex;0,lastRowIndex:6,lastColumnIndex:0
+2023-06-21 14:28:38  [ main:34 ] - [ INFO ]  所有数据解析完成！
+2023-06-21 14:30:40  [ main:0 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","orderId":"1","password":"zs","price":1.5,"productName":"西红柿","quantity":3.0,"username":"张三"}
+2023-06-21 14:30:40  [ main:4 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","price":25.0,"productName":"鸡蛋","quantity":5.0}
+2023-06-21 14:30:40  [ main:5 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","orderId":"2","password":"ls","price":17.0,"productName":"里脊肉","quantity":1.0,"username":"李四"}
+2023-06-21 14:30:40  [ main:5 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","price":5.0,"productName":"芹菜","quantity":1.0}
+2023-06-21 14:30:40  [ main:6 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","price":24.0,"productName":"辣椒","quantity":3.0}
+2023-06-21 14:30:40  [ main:7 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","price":5.0,"productName":"馒头","quantity":0.5}
+2023-06-21 14:30:40  [ main:25 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":1,"firstColumnIndex":1,"firstRowIndex":1,"lastColumnIndex":1,"lastRowIndex":2,"rowIndex":1,"type":2}
+2023-06-21 14:30:40  [ main:26 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:1,firstColumnIndex;1,lastRowIndex:2,lastColumnIndex:1
+2023-06-21 14:30:40  [ main:27 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":1,"firstColumnIndex":1,"firstRowIndex":3,"lastColumnIndex":1,"lastRowIndex":6,"rowIndex":3,"type":2}
+2023-06-21 14:30:40  [ main:27 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:3,firstColumnIndex;1,lastRowIndex:6,lastColumnIndex:1
+2023-06-21 14:30:40  [ main:28 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":2,"firstColumnIndex":2,"firstRowIndex":3,"lastColumnIndex":2,"lastRowIndex":6,"rowIndex":3,"type":2}
+2023-06-21 14:30:40  [ main:28 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:3,firstColumnIndex;2,lastRowIndex:6,lastColumnIndex:2
+2023-06-21 14:30:40  [ main:28 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":2,"firstColumnIndex":2,"firstRowIndex":1,"lastColumnIndex":2,"lastRowIndex":2,"rowIndex":1,"type":2}
+2023-06-21 14:30:40  [ main:29 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:1,firstColumnIndex;2,lastRowIndex:2,lastColumnIndex:2
+2023-06-21 14:30:40  [ main:29 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":0,"firstColumnIndex":0,"firstRowIndex":1,"lastColumnIndex":0,"lastRowIndex":2,"rowIndex":1,"type":2}
+2023-06-21 14:30:40  [ main:30 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:1,firstColumnIndex;0,lastRowIndex:2,lastColumnIndex:0
+2023-06-21 14:30:40  [ main:32 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":0,"firstColumnIndex":0,"firstRowIndex":3,"lastColumnIndex":0,"lastRowIndex":6,"rowIndex":3,"type":2}
+2023-06-21 14:30:40  [ main:32 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:3,firstColumnIndex;0,lastRowIndex:6,lastColumnIndex:0
+2023-06-21 14:30:40  [ main:33 ] - [ INFO ]  所有数据解析完成！
+2023-06-21 14:32:25  [ main:0 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","orderId":"1","password":"zs","price":1.5,"productName":"西红柿","quantity":3.0,"username":"张三"}
+2023-06-21 14:32:25  [ main:6 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","price":25.0,"productName":"鸡蛋","quantity":5.0}
+2023-06-21 14:32:25  [ main:7 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","orderId":"2","password":"ls","price":17.0,"productName":"里脊肉","quantity":1.0,"username":"李四"}
+2023-06-21 14:32:25  [ main:8 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","price":5.0,"productName":"芹菜","quantity":1.0}
+2023-06-21 14:32:25  [ main:9 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","price":24.0,"productName":"辣椒","quantity":3.0}
+2023-06-21 14:32:25  [ main:10 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","price":5.0,"productName":"馒头","quantity":0.5}
+2023-06-21 14:32:25  [ main:12 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","orderId":"3","password":"zs","price":9.9,"productName":"馒头","quantity":1.0,"username":"张三"}
+2023-06-21 14:32:25  [ main:29 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":1,"firstColumnIndex":1,"firstRowIndex":1,"lastColumnIndex":1,"lastRowIndex":2,"rowIndex":1,"type":2}
+2023-06-21 14:32:25  [ main:30 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:1,firstColumnIndex;1,lastRowIndex:2,lastColumnIndex:1
+2023-06-21 14:32:25  [ main:31 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":1,"firstColumnIndex":1,"firstRowIndex":3,"lastColumnIndex":1,"lastRowIndex":6,"rowIndex":3,"type":2}
+2023-06-21 14:32:25  [ main:31 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:3,firstColumnIndex;1,lastRowIndex:6,lastColumnIndex:1
+2023-06-21 14:32:25  [ main:32 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":2,"firstColumnIndex":2,"firstRowIndex":3,"lastColumnIndex":2,"lastRowIndex":6,"rowIndex":3,"type":2}
+2023-06-21 14:32:25  [ main:32 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:3,firstColumnIndex;2,lastRowIndex:6,lastColumnIndex:2
+2023-06-21 14:32:25  [ main:32 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":2,"firstColumnIndex":2,"firstRowIndex":1,"lastColumnIndex":2,"lastRowIndex":2,"rowIndex":1,"type":2}
+2023-06-21 14:32:25  [ main:33 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:1,firstColumnIndex;2,lastRowIndex:2,lastColumnIndex:2
+2023-06-21 14:32:25  [ main:33 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":0,"firstColumnIndex":0,"firstRowIndex":1,"lastColumnIndex":0,"lastRowIndex":2,"rowIndex":1,"type":2}
+2023-06-21 14:32:25  [ main:35 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:1,firstColumnIndex;0,lastRowIndex:2,lastColumnIndex:0
+2023-06-21 14:32:25  [ main:35 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":0,"firstColumnIndex":0,"firstRowIndex":3,"lastColumnIndex":0,"lastRowIndex":6,"rowIndex":3,"type":2}
+2023-06-21 14:32:25  [ main:36 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:3,firstColumnIndex;0,lastRowIndex:6,lastColumnIndex:0
+2023-06-21 14:32:25  [ main:36 ] - [ INFO ]  所有数据解析完成！
+2023-06-21 14:37:47  [ main:0 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","orderId":"1","password":"zs","price":1.5,"productName":"西红柿","quantity":3.0,"username":"张三"}
+2023-06-21 14:37:47  [ main:5 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","price":25.0,"productName":"鸡蛋","quantity":5.0}
+2023-06-21 14:37:47  [ main:7 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","orderId":"2","password":"ls","price":17.0,"productName":"里脊肉","quantity":1.0,"username":"李四"}
+2023-06-21 14:37:47  [ main:8 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","price":5.0,"productName":"芹菜","quantity":1.0}
+2023-06-21 14:37:47  [ main:9 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","price":24.0,"productName":"辣椒","quantity":3.0}
+2023-06-21 14:37:47  [ main:11 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","price":5.0,"productName":"馒头","quantity":0.5}
+2023-06-21 14:37:47  [ main:12 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","orderId":"3","password":"zs","price":9.9,"productName":"馒头","quantity":1.0,"username":"张三"}
+2023-06-21 14:37:47  [ main:30 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":1,"firstColumnIndex":1,"firstRowIndex":1,"lastColumnIndex":1,"lastRowIndex":2,"rowIndex":1,"type":2}
+2023-06-21 14:37:47  [ main:31 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:1,firstColumnIndex;1,lastRowIndex:2,lastColumnIndex:1
+2023-06-21 14:37:48  [ main:32 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":1,"firstColumnIndex":1,"firstRowIndex":3,"lastColumnIndex":1,"lastRowIndex":6,"rowIndex":3,"type":2}
+2023-06-21 14:37:48  [ main:32 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:3,firstColumnIndex;1,lastRowIndex:6,lastColumnIndex:1
+2023-06-21 14:37:48  [ main:32 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":2,"firstColumnIndex":2,"firstRowIndex":3,"lastColumnIndex":2,"lastRowIndex":6,"rowIndex":3,"type":2}
+2023-06-21 14:37:48  [ main:33 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:3,firstColumnIndex;2,lastRowIndex:6,lastColumnIndex:2
+2023-06-21 14:37:48  [ main:34 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":2,"firstColumnIndex":2,"firstRowIndex":1,"lastColumnIndex":2,"lastRowIndex":2,"rowIndex":1,"type":2}
+2023-06-21 14:37:48  [ main:34 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:1,firstColumnIndex;2,lastRowIndex:2,lastColumnIndex:2
+2023-06-21 14:37:48  [ main:35 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":0,"firstColumnIndex":0,"firstRowIndex":1,"lastColumnIndex":0,"lastRowIndex":2,"rowIndex":1,"type":2}
+2023-06-21 14:37:48  [ main:37 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:1,firstColumnIndex;0,lastRowIndex:2,lastColumnIndex:0
+2023-06-21 14:37:48  [ main:38 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":0,"firstColumnIndex":0,"firstRowIndex":3,"lastColumnIndex":0,"lastRowIndex":6,"rowIndex":3,"type":2}
+2023-06-21 14:37:48  [ main:38 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:3,firstColumnIndex;0,lastRowIndex:6,lastColumnIndex:0
+2023-06-21 14:37:48  [ main:39 ] - [ INFO ]  所有数据解析完成！
+2023-06-21 14:38:43  [ main:0 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","orderId":"1","password":"zs","price":1.5,"productName":"西红柿","quantity":3.0,"username":"张三"}
+2023-06-21 14:38:43  [ main:6 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","price":25.0,"productName":"鸡蛋","quantity":5.0}
+2023-06-21 14:38:43  [ main:8 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","orderId":"2","password":"ls","price":17.0,"productName":"里脊肉","quantity":1.0,"username":"李四"}
+2023-06-21 14:38:43  [ main:9 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","price":5.0,"productName":"芹菜","quantity":1.0}
+2023-06-21 14:38:43  [ main:10 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","price":24.0,"productName":"辣椒","quantity":3.0}
+2023-06-21 14:38:43  [ main:11 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","price":5.0,"productName":"馒头","quantity":0.5}
+2023-06-21 14:38:43  [ main:12 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","orderId":"3","password":"zs","price":9.9,"productName":"馒头","quantity":1.0,"username":"张三"}
+2023-06-21 14:38:43  [ main:33 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":1,"firstColumnIndex":1,"firstRowIndex":1,"lastColumnIndex":1,"lastRowIndex":2,"rowIndex":1,"type":2}
+2023-06-21 14:38:43  [ main:35 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:1,firstColumnIndex;1,lastRowIndex:2,lastColumnIndex:1
+2023-06-21 14:38:43  [ main:35 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":1,"firstColumnIndex":1,"firstRowIndex":3,"lastColumnIndex":1,"lastRowIndex":6,"rowIndex":3,"type":2}
+2023-06-21 14:38:43  [ main:36 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:3,firstColumnIndex;1,lastRowIndex:6,lastColumnIndex:1
+2023-06-21 14:38:43  [ main:36 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":2,"firstColumnIndex":2,"firstRowIndex":3,"lastColumnIndex":2,"lastRowIndex":6,"rowIndex":3,"type":2}
+2023-06-21 14:38:43  [ main:37 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:3,firstColumnIndex;2,lastRowIndex:6,lastColumnIndex:2
+2023-06-21 14:38:43  [ main:37 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":2,"firstColumnIndex":2,"firstRowIndex":1,"lastColumnIndex":2,"lastRowIndex":2,"rowIndex":1,"type":2}
+2023-06-21 14:38:43  [ main:38 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:1,firstColumnIndex;2,lastRowIndex:2,lastColumnIndex:2
+2023-06-21 14:38:43  [ main:38 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":0,"firstColumnIndex":0,"firstRowIndex":1,"lastColumnIndex":0,"lastRowIndex":2,"rowIndex":1,"type":2}
+2023-06-21 14:38:43  [ main:40 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:1,firstColumnIndex;0,lastRowIndex:2,lastColumnIndex:0
+2023-06-21 14:38:43  [ main:41 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":0,"firstColumnIndex":0,"firstRowIndex":3,"lastColumnIndex":0,"lastRowIndex":6,"rowIndex":3,"type":2}
+2023-06-21 14:38:43  [ main:41 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:3,firstColumnIndex;0,lastRowIndex:6,lastColumnIndex:0
+2023-06-21 14:38:43  [ main:42 ] - [ INFO ]  所有数据解析完成！
+2023-06-21 14:39:17  [ main:0 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","orderId":"1","password":"zs","price":1.5,"productName":"西红柿","quantity":3.0,"username":"张三"}
+2023-06-21 14:39:17  [ main:4 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","price":25.0,"productName":"鸡蛋","quantity":5.0}
+2023-06-21 14:39:17  [ main:5 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","orderId":"2","password":"ls","price":17.0,"productName":"里脊肉","quantity":1.0,"username":"李四"}
+2023-06-21 14:39:17  [ main:6 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","price":5.0,"productName":"芹菜","quantity":1.0}
+2023-06-21 14:39:17  [ main:6 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","price":24.0,"productName":"辣椒","quantity":3.0}
+2023-06-21 14:39:17  [ main:7 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","price":5.0,"productName":"馒头","quantity":0.5}
+2023-06-21 14:39:17  [ main:9 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","orderId":"3","password":"zs","price":9.9,"productName":"馒头","quantity":1.0,"username":"张三"}
+2023-06-21 14:39:17  [ main:28 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":1,"firstColumnIndex":1,"firstRowIndex":1,"lastColumnIndex":1,"lastRowIndex":2,"rowIndex":1,"type":2}
+2023-06-21 14:39:17  [ main:29 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:1,firstColumnIndex;1,lastRowIndex:2,lastColumnIndex:1
+2023-06-21 14:39:17  [ main:29 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":1,"firstColumnIndex":1,"firstRowIndex":3,"lastColumnIndex":1,"lastRowIndex":6,"rowIndex":3,"type":2}
+2023-06-21 14:39:17  [ main:30 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:3,firstColumnIndex;1,lastRowIndex:6,lastColumnIndex:1
+2023-06-21 14:39:17  [ main:30 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":2,"firstColumnIndex":2,"firstRowIndex":3,"lastColumnIndex":2,"lastRowIndex":6,"rowIndex":3,"type":2}
+2023-06-21 14:39:17  [ main:31 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:3,firstColumnIndex;2,lastRowIndex:6,lastColumnIndex:2
+2023-06-21 14:39:17  [ main:31 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":2,"firstColumnIndex":2,"firstRowIndex":1,"lastColumnIndex":2,"lastRowIndex":2,"rowIndex":1,"type":2}
+2023-06-21 14:39:17  [ main:31 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:1,firstColumnIndex;2,lastRowIndex:2,lastColumnIndex:2
+2023-06-21 14:39:17  [ main:32 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":0,"firstColumnIndex":0,"firstRowIndex":1,"lastColumnIndex":0,"lastRowIndex":2,"rowIndex":1,"type":2}
+2023-06-21 14:39:17  [ main:34 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:1,firstColumnIndex;0,lastRowIndex:2,lastColumnIndex:0
+2023-06-21 14:39:17  [ main:35 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":0,"firstColumnIndex":0,"firstRowIndex":3,"lastColumnIndex":0,"lastRowIndex":6,"rowIndex":3,"type":2}
+2023-06-21 14:39:17  [ main:35 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:3,firstColumnIndex;0,lastRowIndex:6,lastColumnIndex:0
+2023-06-21 14:39:17  [ main:36 ] - [ INFO ]  所有数据解析完成！
+2023-06-21 14:44:47  [ main:0 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","orderId":"1","password":"zs","price":1.5,"productName":"西红柿","quantity":3.0,"username":"张三"}
+2023-06-21 14:44:47  [ main:4 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","price":25.0,"productName":"鸡蛋","quantity":5.0}
+2023-06-21 14:44:47  [ main:5 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","orderId":"2","password":"ls","price":17.0,"productName":"里脊肉","quantity":1.0,"username":"李四"}
+2023-06-21 14:44:47  [ main:6 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","price":5.0,"productName":"芹菜","quantity":1.0}
+2023-06-21 14:44:47  [ main:7 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","price":24.0,"productName":"辣椒","quantity":3.0}
+2023-06-21 14:44:47  [ main:8 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","price":5.0,"productName":"馒头","quantity":0.5}
+2023-06-21 14:44:47  [ main:9 ] - [ INFO ]  解析到一条数据:{"date":"2023-06-21 00:00:00","orderId":"3","password":"zs","price":9.9,"productName":"馒头","quantity":1.0,"username":"张三"}
+2023-06-21 14:44:47  [ main:28 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":1,"firstColumnIndex":1,"firstRowIndex":1,"lastColumnIndex":1,"lastRowIndex":2,"rowIndex":1,"type":2}
+2023-06-21 14:44:47  [ main:29 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:1,firstColumnIndex;1,lastRowIndex:2,lastColumnIndex:1
+2023-06-21 14:44:47  [ main:30 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":1,"firstColumnIndex":1,"firstRowIndex":3,"lastColumnIndex":1,"lastRowIndex":6,"rowIndex":3,"type":2}
+2023-06-21 14:44:47  [ main:30 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:3,firstColumnIndex;1,lastRowIndex:6,lastColumnIndex:1
+2023-06-21 14:44:47  [ main:31 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":2,"firstColumnIndex":2,"firstRowIndex":3,"lastColumnIndex":2,"lastRowIndex":6,"rowIndex":3,"type":2}
+2023-06-21 14:44:47  [ main:31 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:3,firstColumnIndex;2,lastRowIndex:6,lastColumnIndex:2
+2023-06-21 14:44:47  [ main:32 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":2,"firstColumnIndex":2,"firstRowIndex":1,"lastColumnIndex":2,"lastRowIndex":2,"rowIndex":1,"type":2}
+2023-06-21 14:44:47  [ main:32 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:1,firstColumnIndex;2,lastRowIndex:2,lastColumnIndex:2
+2023-06-21 14:44:47  [ main:33 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":0,"firstColumnIndex":0,"firstRowIndex":1,"lastColumnIndex":0,"lastRowIndex":2,"rowIndex":1,"type":2}
+2023-06-21 14:44:47  [ main:35 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:1,firstColumnIndex;0,lastRowIndex:2,lastColumnIndex:0
+2023-06-21 14:44:47  [ main:35 ] - [ INFO ]  读取到了一条额外信息:{"columnIndex":0,"firstColumnIndex":0,"firstRowIndex":3,"lastColumnIndex":0,"lastRowIndex":6,"rowIndex":3,"type":2}
+2023-06-21 14:44:47  [ main:36 ] - [ INFO ]  额外信息是合并单元格,而且覆盖了一个区间,在firstRowIndex:3,firstColumnIndex;0,lastRowIndex:6,lastColumnIndex:0
+2023-06-21 14:44:47  [ main:36 ] - [ INFO ]  所有数据解析完成！
